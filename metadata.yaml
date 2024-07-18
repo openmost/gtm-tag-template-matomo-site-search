@@ -15,5 +15,5 @@
 homepage: "https://openmost.io"
 documentation: "https://github.com/openmost/gtm-tag-template-matomo-site-search"
 versions:
-  - sha: 045a86ff6c1e5a916188f0419475924c97950702
+  - sha: fcffe1586ca9772dafc31d2ac72a56c441ba0dac
     changeNotes: Initial Version
