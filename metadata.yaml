@@ -15,5 +15,7 @@
 homepage: "https://openmost.com"
 documentation: "https://github.com/openmost/gtm-tag-template-matomo-site-search"
 versions:
+  - sha: 6002e373c17e1aa808bc61606ee253fa1992c8dc
+    changeNotes: Update Matomo logo
   - sha: fcffe1586ca9772dafc31d2ac72a56c441ba0dac
     changeNotes: Initial Version
