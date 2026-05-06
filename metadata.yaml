@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-homepage: "https://openmost.io"
+homepage: "https://openmost.com"
 documentation: "https://github.com/openmost/gtm-tag-template-matomo-site-search"
 versions:
   - sha: fcffe1586ca9772dafc31d2ac72a56c441ba0dac
